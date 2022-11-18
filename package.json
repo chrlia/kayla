@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Akira",
+  "author": "kyy",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:KirBotz/Baileys",
